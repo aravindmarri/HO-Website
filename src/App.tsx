@@ -503,6 +503,7 @@ function App() {
   if (showWelcome) {
     return (
       <div>
+        <MouseCursor />
         <Welcome3D />
       </div>
     )
