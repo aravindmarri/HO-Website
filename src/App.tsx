@@ -502,7 +502,7 @@ function App() {
 
   if (showWelcome) {
     return (
-      <div onClick={() => setShowWelcome(false)} style={{ cursor: 'pointer' }}>
+      <div>
         <Welcome3D />
       </div>
     )
