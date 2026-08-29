@@ -532,7 +532,7 @@ function App() {
           </div>
           <div className="skill-card">
             <h3>Frontend</h3>
-            <p>React.js, TypeScript, Next.js, Redux Toolkit, Tailwind CSS, Angular 17, Vue.js</p>
+            <p>React.js, Angular, TypeScript, Next.js, Redux Toolkit, Tailwind CSS, SCSS</p>
           </div>
           <div className="skill-card">
             <h3>Cloud & DevOps</h3>
